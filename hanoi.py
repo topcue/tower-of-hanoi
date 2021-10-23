@@ -1,6 +1,6 @@
 def hanoi(n, k, a=1, b=2, c=3):
 	if (k == pow(2, n-1)):
-		print("{} {}".format(a, c))
+		print("{} -> {}".format(a, c))
 	elif (k < pow(2, n-1)):
 		hanoi(n-1, k, a, c, b)
 	else:
