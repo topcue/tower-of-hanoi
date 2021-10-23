@@ -1,7 +1,7 @@
 # Tower of Hanoi - k-th move
 ## Index
   - [Overview](#overview)
-  - [What is Tower or hanoi](#What is Tower or hanoi)
+  - [What is Tower of Hanoi?](#what_is_tower_of_hanoi?)
   - [Getting Started](#getting-started)
 ## About
 Algorithm to find the k-th movement of Tower of Hanoi in real time.
