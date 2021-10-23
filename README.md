@@ -31,7 +31,7 @@ hanoi(n, k)
 
 Then the output is as follows.
 
-```shell
+```
 2 -> 3
 ```
 
