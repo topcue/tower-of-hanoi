@@ -16,7 +16,7 @@ https://en.wikipedia.org/wiki/Tower_of_Hanoi
 
 ## Getting Started
 
-### Depencies
+### Dependencies
 None
 
 ## Usage
