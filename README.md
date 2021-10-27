@@ -3,10 +3,10 @@
   - [Overview](#overview)
   - [What is Tower of Hanoi?](#what-is-tower-of-hanoi)
   - [Getting Started](#getting-started)
-## About
-Algorithm to find the k-th movement of Tower of Hanoi in real time.
-
+  - [Usage](#Usage)
 ## Overview
+
+- Algorithm to find the **k-th movement of Tower of Hanoi** in real time.
 
 - A cool algorithm that finds the k-th movement in an instant at the Tower of Hanoi.
 
